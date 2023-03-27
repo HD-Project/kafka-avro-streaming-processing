@@ -11,7 +11,7 @@ Step-step ya sebagai berikut:
 
 
 3.	Pastikan source data sudah tersedia di directory yg diinginkan “data/bitcoin_price_Training.csv” didalam directory python file producer yang akan dibuat.
-4.	
+
  ![image](https://user-images.githubusercontent.com/25885092/227996287-c1502f94-0cd9-4541-be3c-7413bf6d9c8c.png)
 
 
@@ -26,7 +26,8 @@ Step-step ya sebagai berikut:
  
 6.	Buat python producer dengan nama “producer_train.py” (terlampir)
 Sesuaikan key_schema dan value_schema yang telah dibuat sebelumnya:
- ![image](https://user-images.githubusercontent.com/25885092/227996425-1802a713-90cf-406d-a8c9-359eb7ae4738.png)
+
+![image](https://user-images.githubusercontent.com/25885092/227996425-1802a713-90cf-406d-a8c9-359eb7ae4738.png)
 
 Sesuaikan pula tipe data pada producer:
 ![image](https://user-images.githubusercontent.com/25885092/227996440-60e6ad30-8dde-42bc-badf-24b8666ababb.png)
@@ -50,6 +51,6 @@ Setelah producer sukses, jalankan juga file consumer:
  ![image](https://user-images.githubusercontent.com/25885092/227996573-f841c7e2-3e52-4f5c-89f9-8d921245fe53.png)
 
 
-#########	Done
+---------------------------------------------------------Done------------------------------------------------------
 
 
